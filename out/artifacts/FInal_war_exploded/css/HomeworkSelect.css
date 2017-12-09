@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    font-size: 13px;
+    font-face: "微软雅黑";
+}
+
+.Main_Frame
+{
+    width:668px;
+    height:100%;
+    border: solid 1px #FBFBFB;
+    margin:auto;
+}
+
+.Main_Content
+{
+    font-size:12px;
+    border: solid 1px white;
+    width:75%;
+    height:80%;
+    background-color: white;
+    margin:  auto;
+    margin-top:10%;
+    padding: 4px 4px 4px 4px;
+}
+
+.Submit_Frame
+{
+    width:100px;
+    height:30px;
+    margin: auto;
+    margin-top:5%;
+    margin-bottom: 10%;
+    border:solid  1px #FBFBFB;
+}
+
+.Submit_Button
+{
+    background-color:#FC0;
+    width:100px;
+    height:30px;
+    border:solid 1px #DDDDDD;
+    font-family:微软雅黑;
+    font-size:13px;
+    color:#FFF;
+    border-radius:6px;
+    cursor:pointer
+}

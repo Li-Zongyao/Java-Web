@@ -1,0 +1,16 @@
+&nbsp&nbsp<input type="radio" value="BASIC语言" class="opt" name="Opt_1"/>1）&nbsp&nbspBASIC语言
+&nbsp&nbsp<input type="radio" value="C语言" class="opt" name="Opt_1"/>2）&nbsp&nbspC语言
+&nbsp&nbsp<input type="radio" value="Pascal语言" class="opt" name="Opt_1"/>3）&nbsp&nbspPascal语言
+&nbsp&nbsp<input type="radio" value="Fortran语言" class="opt" name="Opt_1"/>4）&nbsp&nbspFortran语言
+&nbsp&nbsp<input type="radio" value="NTFS" class="opt" name="Opt_2"/>1）&nbsp&nbspNTFS文件系统
+&nbsp&nbsp<input type="radio" value="EXT" class="opt" name="Opt_2"/>2）&nbsp&nbspEXT系列文件系统
+&nbsp&nbsp<input type="radio" value="FAT32" class="opt" name="Opt_2"/>3）&nbsp&nbspFAT32文件系统
+&nbsp&nbsp<input type="radio" value="FAT16" class="opt" name="Opt_2"/>4）&nbsp&nbspFAT16文件系统
+&nbsp&nbsp<input type="radio" value="MINIX" class="opt" name="Opt_3"/>1）&nbsp&nbspMINIX文件系统
+&nbsp&nbsp<input type="radio" value="EXT" class="opt" name="Opt_3"/>2）&nbsp&nbspEXT系列文件系统
+&nbsp&nbsp<input type="radio" value="FAT32" class="opt" name="Opt_3"/>3）&nbsp&nbspFAT32文件系统
+&nbsp&nbsp<input type="radio" value="FAT16" class="opt" name="Opt_3"/>4）&nbsp&nbspFAT16文件系统
+&nbsp&nbsp<input type="radio" value="Dijkstra" class="opt" name="Opt_4"/>1）&nbsp&nbspDijkstra
+&nbsp&nbsp<input type="radio" value="Linus" class="opt" name="Opt_4"/>2）&nbsp&nbspLinus Torvalds
+&nbsp&nbsp<input type="radio" value="Floyd" class="opt" name="Opt_4"/>3）&nbsp&nbspFloyd
+&nbsp&nbsp<input type="radio" value="DennisRitchie" class="opt" name="Opt_4"/>4）&nbsp&nbspDennis MacAlistair Ritchie

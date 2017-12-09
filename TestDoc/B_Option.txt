@@ -1,0 +1,16 @@
+&nbsp&nbsp<input type="radio" value="分页机制" class="opt" name="Opt_1"/>1）&nbsp&nbsp分页机制
+&nbsp&nbsp<input type="radio" value="分段机制" class="opt" name="Opt_1"/>2）&nbsp&nbsp分段机制
+&nbsp&nbsp<input type="radio" value="段页式存储机制" class="opt" name="Opt_1"/>3）&nbsp&nbsp段页式存储机制
+&nbsp&nbsp<input type="radio" value="连续分配机制" class="opt" name="Opt_1"/>4）&nbsp&nbsp连续分配机制
+&nbsp&nbsp<input type="radio" value="一级页表" class="opt" name="Opt_2"/>1）&nbsp&nbsp一级页表
+&nbsp&nbsp<input type="radio" value="二级页表" class="opt" name="Opt_2"/>2）&nbsp&nbsp二级页表
+&nbsp&nbsp<input type="radio" value="三级页表" class="opt" name="Opt_2"/>3）&nbsp&nbsp三级页表
+&nbsp&nbsp<input type="radio" value="四级页表" class="opt" name="Opt_2"/>4）&nbsp&nbsp四级页表
+&nbsp&nbsp<input type="radio" value="1KB" class="opt" name="Opt_3"/>1）&nbsp&nbsp1KB
+&nbsp&nbsp<input type="radio" value="2KB" class="opt" name="Opt_3"/>2）&nbsp&nbsp2KB
+&nbsp&nbsp<input type="radio" value="4KB" class="opt" name="Opt_3"/>3）&nbsp&nbsp4KB
+&nbsp&nbsp<input type="radio" value="8KB" class="opt" name="Opt_3"/>4）&nbsp&nbsp8KB
+&nbsp&nbsp<input type="radio" value="OPT" class="opt" name="Opt_4"/>1）&nbsp&nbspOPT
+&nbsp&nbsp<input type="radio" value="LRU" class="opt" name="Opt_4"/>2）&nbsp&nbspLRU
+&nbsp&nbsp<input type="radio" value="FIFO" class="opt" name="Opt_4"/>3）&nbsp&nbspFIFO
+&nbsp&nbsp<input type="radio" value="NRU" class="opt" name="Opt_4"/>4）&nbsp&nbspNRU

@@ -1,0 +1,109 @@
+@charset "utf-8";
+body
+{
+    font-family:微软雅黑;
+}
+
+.TopBar
+{
+    height:40px;
+    width:100%;
+    background-color:cornflowerblue;
+    border-bottom-width: 0px;
+    border-left: 0px;
+    position: absolute;
+    left: 0px;
+    top:0px;
+}
+
+.TopBar_Name
+{
+    height:40px;
+    text-align:center;
+    line-height: 40px;
+    position:absolute;
+    background-color:cornflowerblue;
+    left : 10%;
+    font-size: 11px;
+    color:white;
+}
+
+.TopBar_logout
+{
+    height:40px;
+    text-align:center;
+    line-height: 40px;
+    position:absolute;
+    background-color:cornflowerblue;
+    right : 10%;
+    font-size: 11px;
+    color:white;
+}
+
+
+a:link,a:focus
+{
+    text-decoration:none;
+    color: white;
+}
+
+a:visited
+{   
+    text-decoration:none;
+    color:#666666;
+}
+a:hover
+{
+    text-decoration:underline;
+    color:white;
+    text-decoration:none;
+}
+
+
+.Frame_1
+{
+    margin: auto;
+    margin-top:100px;
+    width:900px;
+    height:600px;
+}
+
+.navigation
+{
+    float: left;
+    width: 130px;
+    height: 600px;
+
+}
+.Navigation_Table_Cell
+{
+    width: 130px;
+    height:40px;
+    background-color: #FFCC00;
+    text-align: center;
+    line-height: 40px;
+    font-size: 13px;
+    color: white;
+}
+
+.Navigation_Table_Cell:hover
+{
+
+    background-color: #FFCC66;
+}
+
+.Navigation_Table_Cell a{
+     color: white;
+ }
+
+.Navigation_Table_Cell a:hover{
+    color: white;
+    color: #DDDDDD;
+}
+
+#Frame_Main
+{
+    width: 770px;
+    height: 600px;
+    background-color: azure;
+}

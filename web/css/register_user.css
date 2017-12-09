@@ -1,0 +1,72 @@
+@charset "utf-8";
+
+.Main_Frame
+{
+    width:600px;
+    height: 80%;
+    margin: 5% auto;
+    border: solid 1px white;
+    background-color: white;
+}
+
+.Text_Frame
+{
+    width:350px;
+    height:45px;
+    margin:8% auto;
+    line-height: 45px;
+    font-size:14px;
+    background-color: white;
+}
+
+.Text_Area
+{
+    width:280px;
+    height:45px;
+    float:right;
+    font-size:14px;
+    font-family:微软雅黑;
+    padding:16px;
+    border:solid 1px #D4D4D4;
+    background-color: white;
+}
+
+.Submit_Frame
+{
+    width:100px;
+    height:35px;
+    margin:8% auto;
+    border:solid  1px white ;
+}
+
+.Submit_Button
+{
+    background-color:#FC0;
+    width:120px;
+    height:35px;
+    border:solid 1px #DDDDDD;
+    font-family:微软雅黑;
+    font-size:14px;
+    color:#FFF;
+    border-radius:6px;
+    cursor:pointer
+}
+
+.Sex_Frame_1
+{
+    width:100px;
+    text-align: center;
+    height:40px;
+    line-height: 40px;
+
+    float: right;
+}
+
+.Sex_Frame_2
+{
+    width:100px;
+    text-align: center;
+    height:40px;
+    line-height: 40px;
+    float: right;
+}

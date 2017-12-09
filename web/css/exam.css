@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    font-size: 13px;
+    font-face: "微软雅黑";
+}
+
+.Main_Frame
+{
+    width:668px;
+    height:600px;
+    margin:0px auto;
+}
+
+
+.Text_Table
+{
+    width:400px;
+    font-size:12px;
+    background-color: white;
+    margin: 20px auto;
+}
+
+.Text_Table_Row1
+{
+    width:400px;
+    height: 30px;
+    text-align:left;
+    line-height: 30px;
+}
+
+.Text_Table_Row2
+{
+    width:400px;
+    text-align:left;
+    line-height:30px;
+}
+
+.Answer_Frame
+{
+    height:40px;
+    width:400px;
+    margin:20px auto;
+}
+
+.opt
+{
+    vertical-align:middle;
+    margin-top:0;
+}
+
+.Submit_Frame_1
+{
+    width:100px;
+    height:30px;
+    margin:20px auto;
+    border:solid  white 1px;
+}
+
+#Submit_Button_1
+{
+    background-color:#FC0;
+    width:100px;
+    height:30px;
+    border:solid 1px #DDDDDD;
+    font-family:微软雅黑;
+    font-size:13px;
+    color:#FFF;
+    border-radius:6px;
+    cursor:pointer
+}

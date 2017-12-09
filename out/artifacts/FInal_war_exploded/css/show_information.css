@@ -1,0 +1,60 @@
+@charset "utf-8";
+body{
+    font-size: 13px;
+    font-face: "微软雅黑";
+}
+
+.Main_Frame
+{
+    width:668px;
+    height:600px;
+    margin:0px auto;
+}
+
+.Main_Content
+{
+
+    font-size:12px;
+    width:75%;
+    background-color: white;
+    margin:  auto;
+    margin-top:10%;
+    padding: 3px 3px 3px 3px;
+
+    height:80%;
+}
+
+
+.Answer_Frame
+{
+    height:40px;
+    width:400px;
+    margin:20px auto;
+}
+
+.opt
+{
+    vertical-align:middle;
+    margin-top:0;
+}
+
+.Submit_Frame_1
+{
+    width:100px;
+    height:30px;
+    margin:20px auto;
+    border:solid  white 1px;
+}
+
+#Submit_Button_1
+{
+    background-color:#FC0;
+    width:100px;
+    height:30px;
+    border:solid 1px #DDDDDD;
+    font-family:微软雅黑;
+    font-size:13px;
+    color:#FFF;
+    border-radius:6px;
+    cursor:pointer
+}
